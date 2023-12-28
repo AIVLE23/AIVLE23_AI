@@ -4,7 +4,7 @@ import random
 import re
 
 # OpenAI API 키 설정
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='')
 
 class ChatGPTBot:
     def __init__(self):
