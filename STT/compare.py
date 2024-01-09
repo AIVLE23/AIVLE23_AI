@@ -15,3 +15,5 @@ def compare(origin,transcription):
 
     # #틀린 부분 출력
     # print(diff)
+    
+    return diff
